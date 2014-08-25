@@ -1,6 +1,8 @@
 	
 
-    /*Predisporre un programma che stampi a video un rettangolo la cui cornice sia costituita da caratteri asterisco, e la parte interna da 'Q'. il numero di linee e di colonne verr‡ scelto dall'utente. */
+    /*Predisporre un programma che stampi a video un rettangolo la cui cornice
+    sia costituita da caratteri asterisco, e la parte interna da 'Q'.
+    Il numero di linee e di colonne verr√† scelto dall'utente. */
      
     #include <stdio.h>
     #include <stdlib.h>
